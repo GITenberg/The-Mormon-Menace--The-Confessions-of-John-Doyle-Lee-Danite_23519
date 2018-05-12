@@ -1,0 +1,40 @@
+_repo: The-Mormon-Menace--The-Confessions-of-John-Doyle-Lee-Danite_23519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lee, John Doyle
+    alias: Lee, John D. (John Doyle)
+    birthdate: 1812
+    deathdate: 1877
+    gutenberg_agent_id: '25890'
+    url: http://www.gutenberg.org/2009/agents/25890
+    wikipedia: http://en.wikipedia.org/wiki/John_D._Lee
+  - agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2007-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23519'
+  lccn: '05002764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lee, John Doyle, 1812-1877'
+- !lcsh 'Mormon Church -- History -- 19th century'
+- !lcsh 'Mormons -- Biography'
+- !lcsh 'Mountain Meadows Massacre, Utah, 1857'
+- !lcc 'F786'
+title: 'The Mormon Menace: The Confessions of John Doyle Lee, Danite'
+url: http://www.gutenberg.org/ebooks/23519
