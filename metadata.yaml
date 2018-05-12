@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1257
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23519#The-Mormon-Menace--The-Confessions-of-John-Doyle-Lee-Danite
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2007-11-17'
 gutenberg_type: Text
